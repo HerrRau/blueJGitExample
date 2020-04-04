@@ -7,7 +7,7 @@ public class Kuh extends Tier
 
     public String gibLaut() 
     {
-        return "Muuuh.";
+        return "Muh.";
     }
 
     public String gibName() 
