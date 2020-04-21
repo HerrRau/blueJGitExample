@@ -1,4 +1,4 @@
-
+//Autor: Lila Legolas
 public class Stirnlappenbasilisk extends Tier
 {
     public Stirnlappenbasilisk()
@@ -7,7 +7,7 @@ public class Stirnlappenbasilisk extends Tier
 
     public String gibLaut() 
     {
-        return "neunLive";
+        return "wenn das kein einfaches Tier ist, dann stelle ich mich in die Kantine des BLM";
     }
 
     public String gibName() 
