@@ -1,18 +1,17 @@
 
-public class Katze extends Tier
+public class Dodo extends Tier
 {
-    public Katze()
+    public Dodo()
     {
     }
 
     public String gibLaut() 
     {
-        return "Miau";
+        return "Gurr";
     }
 
     public String gibName() 
     {
-        return "Katze";
+        return "Dodo";
     }
 }
-

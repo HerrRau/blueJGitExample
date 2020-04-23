@@ -1,18 +1,17 @@
 
-public class Katze extends Tier
+public class Hund extends Tier
 {
-    public Katze()
+    public Hund()
     {
     }
 
     public String gibLaut() 
     {
-        return "Miau";
+        return "Wuff.";
     }
 
     public String gibName() 
     {
-        return "Katze";
+        return "Hund";
     }
 }
-
