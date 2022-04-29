@@ -7,7 +7,7 @@ public class Stirnlappenbasilisk extends Tier
 
     public String gibLaut() 
     {
-        return "wenn das kein einfaches Tier ist, dann stelle ich mich in die Kantine des BLM";
+        return "Arooooaehz.";
     }
 
     public String gibName() 
