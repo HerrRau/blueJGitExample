@@ -7,7 +7,7 @@ public class Axolotl extends Tier
 
     public String gibLaut() 
     {
-        return "blub.";
+        return "glub glub.";
     }
 
     public String gibName() 
