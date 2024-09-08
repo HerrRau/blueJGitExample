@@ -12,6 +12,6 @@ public class Axolotl extends Tier
 
     public String gibName() 
     {
-        return "Monsier Axolotl";
+        return "Axolotl";
     }
 }
