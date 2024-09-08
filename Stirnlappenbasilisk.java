@@ -7,7 +7,7 @@ public class Stirnlappenbasilisk extends Tier
 
     public String gibLaut() 
     {
-        return "Arooooaehz.";
+        return "Aroooaehz.";
     }
 
     public String gibName() 
