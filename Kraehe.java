@@ -9,7 +9,7 @@ public class Kraehe extends Tier
 {
     public String gibLaut() 
     {
-        return "Kraaaechz";
+        return "Kraaaechzzzz";
     }
 
     public String gibName() 
