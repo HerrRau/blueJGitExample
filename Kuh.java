@@ -1,17 +1,36 @@
 
 public class Kuh extends Tier
 {
+    String name;
+    int groesse;
+    int gewicht;
+
     public Kuh()
     {
+        name = "Fritz";
+        groesse = 5;
+        gewicht = 7;
     }
 
-    public String gibLaut() 
+    public Kuh(String naNeu, int grNeu, int geNeu)
     {
-        return "Muh.";
+        name = naNeu;
+        groesse = grNeu;
+        gewicht = geNeu;
     }
 
-    public String gibName() 
-    {
-        return "Kuh";
-    }
+    public void setzeName(String s) { name = s; }
+
+    public void setzeGroesse(int i) { groesse = i; }
+
+    public void setzeGewicht(int i) { gewicht = i; }
+
+    public String gibName() { return name; }
+
+    public int gibGroesse() { return groesse; } 
+
+    public int gibgewicht() { return gewicht; }
+
+    public String gibLaut() { return "Muh"; }
+
 }
