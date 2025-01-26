@@ -1,18 +1,18 @@
 
-public class Kuh extends Tier
+public class KuhTR 
 {
     String name;
     int groesse;
     int gewicht;
 
-    public Kuh()
+    public KuhTR()
     {
         name = "Fritz";
         groesse = 5;
         gewicht = 7;
     }
 
-    public Kuh(String naNeu, int grNeu, int geNeu)
+    public KuhTR(String naNeu, int grNeu, int geNeu)
     {
         name = naNeu;
         groesse = grNeu;
