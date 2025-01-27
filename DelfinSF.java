@@ -1,5 +1,5 @@
 
-public class DelfinSF 
+public class DelfinSF extends Tier 
 {
     String name;
     int laenge;
