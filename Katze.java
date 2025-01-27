@@ -1,17 +1,17 @@
-public class KuhTR 
+public class Katze
 {
     String name;
     int groesse;
     int gewicht;
 
-    public KuhTR()
+    public Katze()
     {
-        name = "Fritz";
+        name = "Mathilda";
         groesse = 5;
         gewicht = 7;
     }
 
-    public KuhTR(String naNeu, int grNeu, int geNeu)
+    public Katze(String naNeu, int grNeu, int geNeu)
     {
         name = naNeu;
         groesse = grNeu;
@@ -30,6 +30,7 @@ public class KuhTR
 
     public int gibgewicht() { return gewicht; }
 
-    public String gibLaut() { return "Muh"; }
+    public String gibLaut() { return "meow"; }
 
 }
+
