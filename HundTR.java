@@ -18,15 +18,7 @@ public class HundTR extends Tier
         gewicht = geNeu;
     }
 
-       public void setzeName(String s) { 
-        name = s; 
-    }
-
-       public void setzeGroesse(int i) { 
-        groesse = i; 
-    }
-
-       public void setzeGewicht(int i) { 
+      public void setzeGewicht(int i) { 
         gewicht = i; 
     }
 
@@ -46,4 +38,5 @@ public class HundTR extends Tier
         return "Gav"; 
     }
 
+  
 }
