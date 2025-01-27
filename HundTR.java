@@ -1,4 +1,4 @@
-public class HundTR 
+public class HundTR extends Tier 
 {
     String name;
     int groesse;

@@ -1,4 +1,4 @@
-public class Katze
+public class Katze extends Tier
 {
     String name;
     int groesse;

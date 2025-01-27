@@ -5,7 +5,7 @@
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class FlusspferdTR
+public class FlusspferdTR extends Tier
 {
     // Attribute
     String name;

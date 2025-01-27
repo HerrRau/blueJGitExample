@@ -5,7 +5,7 @@
  * @author (Ihr Name) 
  * @version (eine Versionsnummer oder ein Datum)
  */
-public class GiraffeMP
+public class GiraffeMP extends Tier
 {
     // Attribute
     String name;

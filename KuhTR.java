@@ -1,4 +1,4 @@
-public class KuhTR 
+public class KuhTR extends Tier 
 {
     String name;
     int groesse;
