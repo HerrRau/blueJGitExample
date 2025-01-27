@@ -1,5 +1,5 @@
 
-public class ZebraLE
+public class ZebraLE extends Tier
 {
     // Attribute
     String name;
