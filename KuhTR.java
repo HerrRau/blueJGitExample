@@ -19,18 +19,32 @@ public class KuhTR
         gewicht = geNeu;
     }
 
-    public void setzeName(String s) { name = s; }
+    public void setzeName(String s) { 
+        name = s; 
+    }
 
-    public void setzeGroesse(int i) { groesse = i; }
+    public void setzeGroesse(int i) { 
+        groesse = i; 
+    }
 
-    public void setzeGewicht(int i) { gewicht = i; }
+    public void setzeGewicht(int i) { 
+        gewicht = i; 
+    }
 
-    public String gibName() { return name; }
+    public String gibName() { 
+        return name; 
+    }
 
-    public int gibGroesse() { return groesse; } 
+    public int gibGroesse() { 
+        return groesse; 
+    } 
 
-    public int gibgewicht() { return gewicht; }
+    public int gibgewicht() { 
+        return gewicht; 
+    }
 
-    public String gibLaut() { return "Muh"; }
+    public String gibLaut() { 
+        return "Muh"; 
+    }
 
 }
